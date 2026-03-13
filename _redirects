@@ -1,0 +1,5 @@
+# Only redirect if it's NOT a real file
+/pubg/assets/* /pubg/assets/:splat 200
+/pubg/*.js /pubg/:splat 200
+/pubg/*.css /pubg/:splat 200
+/pubg/* /pubg/home.html 200
