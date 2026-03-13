@@ -11898,10 +11898,10 @@
             function be(e) {
                 return e && (e.hasOwnProperty(ue) || e.hasOwnProperty(J)) ? e[ue] : null
             }
-            const V = An({\
+            const V = An({
                     u0275prov: An
                 }),
-                ue = An({\
+                ue = An({
                     u0275inj: An
                 }),
                 k = An({
@@ -11929,19 +11929,19 @@
             function hr(e) {
                 return e && !!e.\u0275providers
             }
-            const Gn = An({\
+            const Gn = An({
                     u0275cmp: An
                 }),
-                Fn = An({\
+                Fn = An({
                     u0275dir: An
                 }),
-                Un = An({\
+                Un = An({
                     u0275pipe: An
                 }),
-                $n = An({\
+                $n = An({
                     u0275mod: An
                 }),
-                gr = An({\
+                gr = An({
                     u0275fac: An
                 }),
                 Xn = An({
