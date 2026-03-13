@@ -12492,13 +12492,13 @@
             }
 
             function go(e) {
-                return {\
+                return {
                     u0275providers: e
                 }
             }
 
             function ds(...e) {
-                return {\
+                return {
                     u0275providers: To(0, e),
                     \u0275fromNgModule: !0
                 }
@@ -23534,7 +23534,7 @@
             })();
 
             function yo(f, y) {
-                return {\
+                return {
                     u0275kind: f,
                     \u0275providers: y
                 }
